@@ -1,0 +1,15 @@
+$font-size-base: 0.875rem;
+
+$primary: #2f48a4;
+
+$form-check-input-checked-color: $primary;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.btn {
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+}
